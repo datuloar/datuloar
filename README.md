@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me datuloar@mail.ru
+- -----------------------------------------------------------------------
+- 👀 In my profile on github you can follow my development as a C # programmer
 
 <!---
 datuloar/datuloar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
